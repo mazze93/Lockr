@@ -21,6 +21,8 @@
 
 ---
 
+> **Status:** design-stage prototype — schema, auth flow, and UI scaffolding in place; not yet deployed. Follow along or open an issue.
+
 ## What Is LOCKR?
 
 LOCKR is a privacy-first gay dating and social app designed for men who want to explore the scene without sacrificing their safety. No data mining. No surveillance capitalism. Just encrypted, consent-respecting connections — built by queer people, for queer people.
