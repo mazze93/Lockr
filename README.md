@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/status-prototype-yellow?style=flat-square" />
   <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/security-E2E%20Encrypted-teal?style=flat-square" />
   <img src="https://img.shields.io/badge/built%20for-queer%20community-purple?style=flat-square" />
@@ -120,4 +120,3 @@ MIT — free to use, fork, and build on. Attribution appreciated.
 <p align="center">
   Made with 🔒 + 🏳️‍🌈 by <a href="https://github.com/mazze93">Mazze LeCzzare Frazer</a>
 </p>
-
